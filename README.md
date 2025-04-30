@@ -7,6 +7,5 @@ Kelompok kami terdiri atas:
 - Fathan Arya Maulana / 103012300083
 
 Dataset yang digunakan:
-https://www.kaggle.com/datasets/parvmodi/automotive-vehicles-engine-health-dataset
-Lisensi Dataset:
-https://creativecommons.org/publicdomain/zero/1.0/
+- Kaggle, noise audio data: https://www.kaggle.com/datasets/javohirtoshqorgonov/noise-audio-data
+- Xeno-canto: https://xeno-canto.org
