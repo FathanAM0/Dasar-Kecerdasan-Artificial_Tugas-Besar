@@ -11,26 +11,26 @@
                 "103012300083"
             ],
             "kelas": "IF-47-08"
-        },
-        "metode": [
-            "Mamdani",
-            "Sugeno"
-        ],
-        "dataset": [
-            {
-                "nama": "Kaggle, noise-audio-data",
-                "sumber": "https://www.kaggle.com/datasets/javohirtoshqorgonov/noise-audio-data",
-                "deskripsi": "Dataset suara yang terisi suara umum (noise)",
-                "total_durasi": "3 jam"
-            },
-            {
-                "nama": "Xeno-canto, sampling suara burung",
-                "sumber": "https://xeno-canto.org/explore",
-                "deskripsi": "Website yang mengumpulkan suara hewan, termasuk suara burung",
-                "total_durasi": "3 jam"
-            }
-        ]
+        }
     },
+    "metode": [
+        "Mamdani",
+        "Sugeno"
+    ],
+    "dataset": [
+        {
+            "nama": "ESC-50: Environmental Sound Classification",
+            "sumber": "https://www.kaggle.com/datasets/mmoreaux/environmental-sound-classification-50",
+            "deskripsi": "Dataset berisi 2000 rekaman audio lingkungan dari 50 kelas berbeda, termasuk suara burung dan suara lingkungan lainnya.",
+            "total_durasi": "Sekitar 2 jam 46 menit"
+        },
+        {
+            "nama": "Xeno-canto: Koleksi Suara Burung",
+            "sumber": "https://xeno-canto.org",
+            "deskripsi": "Database online yang menyediakan akses ke rekaman suara burung dari seluruh dunia, dengan berbagai spesies dan variasi geografis.",
+            "total_durasi": "Sekitar 3 jam"
+        }
+    ],
     "prapemrosesan": {
         "pemilihan_fitur": "Pitch, Spectral Centroid, dan RMS Energy",
         "penanganan_missing_value": "Tidak ada, karena dataset tidak memiliki missing value",
