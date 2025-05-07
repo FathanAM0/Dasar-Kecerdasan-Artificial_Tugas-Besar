@@ -18,4 +18,4 @@ Dataset yang digunakan:
 
 ## Flow Proses Inferensi Sugeno-Supervised
 
-![Workflow Sugeno](Assets/Inference_Sugeno-Supervised.png)
+belum bikin
