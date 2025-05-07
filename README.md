@@ -15,3 +15,7 @@ Dataset yang digunakan:
 ## Flow Proses Inferensi Mamdani-Supervised
 
 ![Workflow Mamdani](Assets/Inference_Mamdani-Supervised.png)
+
+## Flow Proses Inferensi Sugeno-Supervised
+
+![Workflow Sugeno](Assets/Inference_Sugeno-Supervised.png)
