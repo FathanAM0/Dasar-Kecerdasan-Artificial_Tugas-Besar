@@ -12,10 +12,10 @@ Dataset yang digunakan:
 - Kaggle, noise audio data: https://www.kaggle.com/datasets/javohirtoshqorgonov/noise-audio-data
 - Xeno-canto: https://xeno-canto.org
 
-## Flow Proses Inferensi Mamdani-Supervised
+## Flow Proses Inferensi
 
-![Workflow Mamdani](Assets/Inference_Mamdani-Supervised.png)
+![Workflow](Assets/Dasar-Kecerdasan-Artificial_Grafik-FIS-General.png)
 
-## Flow Proses Inferensi Sugeno-Supervised
+## Fuzzy Inference System
 
-belum bikin
+![FIS](Assets/Dasar-Kecerdasan-Artificial_Grafik-FIS.png)
