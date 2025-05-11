@@ -19,3 +19,7 @@ Dataset yang digunakan:
 ## Fuzzy Inference System
 
 ![FIS](Assets/Dasar-Kecerdasan-Artificial_Grafik-FIS.png)
+
+## Proposal
+
+![Proposal](Proposal/Proposal_Tugas-Besar.pdf)
