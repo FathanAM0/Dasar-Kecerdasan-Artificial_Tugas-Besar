@@ -12,9 +12,9 @@
 
 ## 📝 Deskripsi Proyek  
 Repository ini dibentuk untuk memenuhi tugas besar mata kuliah Dasar Kecerdasan Artificial (DKA) Telkom University 2025 dengan implementasi:  
-- Sistem Inferensi Fuzzy Mamdani  
-- Sistem Inferensi Fuzzy Sugeno  
-- Analisis perbandingan performa kedua metode  
+- Sistem Pra-Klasifikasi dengan Inferensi Fuzzy Mamdani, Logistic Regression, dan Decision Tree.  
+- Sistem Klasifikasi dengan Multi Layer Perceptron dan LGBMClassifier.  
+- Analisis perbandingan performa kedua metode.
 
 ## 📚 Kelengkapan Dokumen
 | Dokumen | Link |
@@ -50,7 +50,7 @@ Sistem menggunakan data audio dari sumber berikut:
 ## 📊 Hasil Eksperimen
 ![Hasil Eksperimen](Assets/fig_Hasil_Inference.png)  
 *Hasil Eksperimen Model*.
-- *Note: 3L = 3 Label*
+!*Note: 3L = 3 Label*
 
 ## 📌 Catatan
 Proyek ini dikembangkan antara Maret-Juni 2025. Untuk replikasi, lihat requirements.txt
