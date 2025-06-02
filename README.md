@@ -49,7 +49,8 @@ Sistem menggunakan data audio dari sumber berikut:
 
 ## 📊 Hasil Eksperimen
 ![Hasil Eksperimen](Assets/fig_Hasil_Inference.png)  
-*Diagram alur pelatihan model*
+*Hasil Eksperimen Model*
+*Note: 3L = 3 Label*
 
 ## 📌 Catatan
 Proyek ini dikembangkan antara Maret-Juni 2025. Untuk replikasi, lihat requirements.txt
