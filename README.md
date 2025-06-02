@@ -1,6 +1,4 @@
-# Tugas Besar Mata Kuliah Dasar Kecerdasan Artificial  
-# Tags
-`Artificial Intelligence` `Fuzzy Logic` `Mamdani System` `Sugeno System` `Audio Analysis` `Noise Classification` `Python` `Scikit-Fuzzy` `DSP` `Machine Learning`
+# Tugas Besar Mata Kuliah Dasar Kecerdasan Artificial
 
 ## 📝 Deskripsi Proyek  
 Repository ini dibentuk untuk memenuhi tugas besar mata kuliah Dasar Kecerdasan Artificial (DKA) Telkom University 2025 dengan implementasi:  
