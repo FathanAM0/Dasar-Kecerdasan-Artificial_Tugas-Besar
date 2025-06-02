@@ -14,8 +14,8 @@ Dataset yang digunakan:
 
 ## Flow Proses Inferensi
 
-![Workflow_Inference](Assets/Inference.png)
+![Workflow_Inference](Assets/fig_Inference.png)
 
 ## Flow Proses Training
 
-![Workflow_Training](Assets/Training.png)
+![Workflow_Training](Assets/fig_Training.png)
