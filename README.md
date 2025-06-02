@@ -1,5 +1,12 @@
 # Tugas Besar Mata Kuliah Dasar Kecerdasan Artificial
 
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat&logo=ai&logoColor=white) 
+![Fuzzy](https://img.shields.io/badge/-Fuzzy%20Logic-430098?style=flat&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Mamdani](https://img.shields.io/badge/-Mamdani%20System-8A2BE2?style=flat) 
+![Sugeno](https://img.shields.io/badge/-Sugeno%20System-4B0082?style=flat)  
+![Audio](https://img.shields.io/badge/-Audio%20Processing-000080?style=flat&logo=sonos&logoColor=white)
+
 ## 📝 Deskripsi Proyek  
 Repository ini dibentuk untuk memenuhi tugas besar mata kuliah Dasar Kecerdasan Artificial (DKA) Telkom University 2025 dengan implementasi:  
 - Sistem Inferensi Fuzzy Mamdani  
