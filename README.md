@@ -14,12 +14,8 @@ Dataset yang digunakan:
 
 ## Flow Proses Inferensi
 
-![Workflow](Assets/Dasar-Kecerdasan-Artificial_Grafik-FIS-General.png)
+![Workflow_Inference](Assets/Inference.png)
 
-## Fuzzy Inference System
+## Flow Proses Training
 
-![FIS](Assets/Dasar-Kecerdasan-Artificial_Grafik-FIS.png)
-
-## Proposal
-
-![Proposal](Proposal/Proposal_Tugas-Besar.pdf)
+![Workflow_Training](Assets/Training.png)
