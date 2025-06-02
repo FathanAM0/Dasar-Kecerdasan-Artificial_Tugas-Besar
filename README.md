@@ -21,7 +21,7 @@ Repository ini dibentuk untuk memenuhi tugas besar mata kuliah Dasar Kecerdasan 
 |---------|------|
 | Proposal | [Proposal_Tugas-Besar.pdf](Proposal_Tugas-Besar.pdf) |
 | Laporan | [Laporan_Tugas-Besar.pdf](Laporan_Tugas-Besar.pdf) |
-| PPT | [PPT_Tugas-Besar.pdf](PPT_Tugas_Besar.pdf) |
+| PPT | [PPT_Tugas-Besar.pdf](PPT_Tugas-Besar.pdf) |
 
 ## 👥 Anggota Kelompok
 - M. Rifqi Dzaky Azhad / 103012330009
