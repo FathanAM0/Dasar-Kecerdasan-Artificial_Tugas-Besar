@@ -49,7 +49,7 @@ Sistem menggunakan data audio dari sumber berikut:
 
 ## 📊 Hasil Eksperimen
 ![Hasil Eksperimen](Assets/fig_Hasil_Inference.png)  
-*Hasil Eksperimen Model*.␣␣
+*Hasil Eksperimen Model*.  
 *Note: 3L = 3 Label*
 
 ## 📌 Catatan
