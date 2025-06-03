@@ -1,4 +1,4 @@
-# Tugas Besar Mata Kuliah Dasar Kecerdasan Artificial
+# Implementasi Sistem Pra-Klasifikasi Suara Burung Menggunakan Metode Fuzzy dan Supervised Learning
 
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat&logo=ai&logoColor=white)
 ![Fuzzy Logic](https://img.shields.io/badge/-Fuzzy%20Logic-430098?style=flat&logo=mathworks&logoColor=white)
