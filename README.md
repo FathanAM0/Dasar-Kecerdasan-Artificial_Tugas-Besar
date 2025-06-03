@@ -35,7 +35,7 @@ Sistem menggunakan data audio dari sumber berikut:
 ## ⚙️ Alur Sistem
 ### Proses Inferensi
 ![Workflow Inference](Assets/fig_Inference.png)  
-*Diagram alur proses inferensi fuzzy*
+*Diagram alur proses inferensi pra-klasifikasi dan klasifikasi*
 
 ### Proses Training
 ![Workflow Training](Assets/fig_Training.png)  
